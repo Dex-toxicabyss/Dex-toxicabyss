@@ -34,7 +34,7 @@ I'm **Raffata Izacky Yuargya Aletama** (you can call me **Raffata** or **Raff**)
 | **Google AI Professional Certificate** | Google (via Coursera) | Aug 2026 |
 | **Google Agile Essentials** | Google (via Coursera) | Aug 2026 |
 | **Introduction to Cybersecurity** | Cisco Networking Academy | Aug 2026 |
-| **Google Cybersecurity Certificate** | Google | Aug 2026 |
+| **Google Cybersecurity Certificate** | Google (Via Coursera) | Aug 2026 |
 
 ---
 
