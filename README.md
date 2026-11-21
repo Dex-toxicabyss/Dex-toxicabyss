@@ -58,35 +58,6 @@ I'm **Raffata Izacky Yuargya Aletama** (you can call me **Raffata** or **Zacky**
 
 ---
 
-### 🚀 Featured Repositories & Projects
-
-#### 🌐 Laravel & Web Information Systems
-| Repository | Description | Stack |
-| :--- | :--- | :--- |
-| [**PAW-MODUL4-RAFFATA-102042500123**](https://github.com/Dex-toxicabyss/PAW-MODUL4-RAFFATA-102042500123) | Combined Laravel 12 practicum suite (**TelkomLibrary** & **CeLOE LMS**) with Multi-Role `RoleMiddleware`, cover upload storage, dynamic search/filter/pagination, grading, & CSV export. | `Laravel 12` `Blade` `MySQL` |
-| [**sim-gudang-laundry-paw**](https://github.com/Dex-toxicabyss/sim-gudang-laundry-paw) | Sistem Informasi Penataan Penyimpanan Gudang Laundry featuring role-based access control, normalized relational schema, and REST API endpoints. | `Laravel` `REST API` `MySQL` |
-| [**si-akademik-rbac**](https://github.com/Dex-toxicabyss/si-akademik-rbac) | Portal informasi akademik berbasis Laravel 11 dengan sistem autentikasi multi-peran menggunakan custom `CheckRole` middleware. | `Laravel 11` `PHP` `RBAC` |
-| [**silibrary-database**](https://github.com/Dex-toxicabyss/silibrary-database) | Relational database design and schema implementation for a digital library information system. | `MySQL` `ERD` `SQL` |
-
-#### 🤖 Bots, OOP Systems & Data Analysis
-| Repository | Description | Stack |
-| :--- | :--- | :--- |
-| [**the-institute-discord-bot**](https://github.com/Dex-toxicabyss/the-institute-discord-bot) | Custom Discord server automation and utility bot built with Python. | `Python` `Discord Bot` |
-| [**tubes-statin-kel1**](https://github.com/Dex-toxicabyss/tubes-statin-kel1) | Industrial Statistics (Statistika Industri) Group 1 final project covering data cleansing and statistical analysis of WHO Life Expectancy datasets. | `Statistics` `Data Analysis` |
-| [**garudaeats-campus-ordering-system**](https://github.com/Dex-toxicabyss/garudaeats-campus-ordering-system) | Java console implementation of the GarudaEats campus food ordering system. | `Java` `OOP` |
-| [**campus-cafeteria-system**](https://github.com/Dex-toxicabyss/campus-cafeteria-system) | Java console application demonstrating Object-Oriented Programming principles for cafeteria operations. | `Java` `OOP` |
-| [**ecommerce-product-management-system**](https://github.com/Dex-toxicabyss/ecommerce-product-management-system) | Console-based C# product management system for e-commerce inventory workflows. | `C#` `.NET` `Console` |
-
-#### 📚 Web Development Practicum Archive (PAW Series)
-| Repository | Description | Stack |
-| :--- | :--- | :--- |
-| [**PAW-MODUL3-RAFFATA-102042500123**](https://github.com/Dex-toxicabyss/PAW-MODUL3-RAFFATA-102042500123) | Aplikasi web CRUD Laravel 12 menerapkan arsitektur MVC, Eloquent ORM, Migrations, dan Blade Templates. | `Laravel 12` `Blade` `MySQL` |
-| [**PAW-MODUL2-RAFFATA-102042500123**](https://github.com/Dex-toxicabyss/PAW-MODUL2-RAFFATA-102042500123) | Aplikasi web CRUD PHP Native & MySQL menggunakan MySQLi Prepared Statements. | `PHP` `MySQLi` |
-| [**PAW-MODUL1-RAFFATA-IZACKY-YUARGYA-ALETAMA-102042500123**](https://github.com/Dex-toxicabyss/PAW-MODUL1-RAFFATA-IZACKY-YUARGYA-ALETAMA-102042500123) | Native PHP & CSS practical projects for PAW Modul 1 and Jurnal 1. | `PHP` `HTML` `CSS` |
-| [**DEMOPHP-WEEK2**](https://github.com/Dex-toxicabyss/DEMOPHP-WEEK2) | PHP and HTML foundational practice and coursework assignment for Week 2. | `PHP` `HTML` |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
