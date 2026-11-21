@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**Dex-toxicabyss/Dex-toxicabyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"><!-- Header Banner / Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Raffata+Izacky+Yuargya+Aletama!;Information+Systems+Student+%40+Telkom+University;Exploring+Laravel%2C+Docker%2C+%26+Linux+Systems;System+Modeling+(UML+%26+BPMN)+Enthusiast" alt="Typing SVG" /><p>
+<img src="https://komarev.com/ghpvc/?username=Dex-toxicabyss&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Telkom%20University-Jakarta-E11D48?style=flat-square&logo=academia&logoColor=white" alt="Telkom University" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Undergraduate%2520Student-0284C7%3Fstyle%3Dflat-square" alt="Undergraduate Student" />
+</p></div>💡 About MeI'm Raffata Izacky Yuargya Aletama (you can call me Raffata or Zacky), an undergraduate Information Systems student at the Faculty of Industrial Engineering, Telkom University Jakarta (Class S1-SI-KJ-25-02). I spend my time building university practicum and coursework projects with Laravel, experimenting with Docker and Linux, and modeling information systems using UML & BPMN.🔭 Currently building: Multi-role web applications for coursework & lab practicums in Laravel 12 (RBAC, file storage, REST APIs, and PHPUnit testing).🌱 Currently learning: Dockerized backend environments, Linux administration (Rocky Linux, SSH/SELinux, Bash scripting), and UI/UX usability engineering.🎓 Academic focus: Web Application Development (PAW), System Analysis & Design (APSI), Business Process Modeling (PPB), and Operating Systems.🤝 Looking to collaborate on: Campus team projects, study groups, and hands-on web or system modeling builds.⚡ Fun fact: I enjoy debugging stubborn server configs (from sshd ports to Docker MySQL mappings) almost as much as shipping clean commits.🛠️ Tech Stack & Tools<div align="center">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,laravel,mysql,html,css,js,bootstrap,vite,docker,linux,bash,git,github,vscode" alt="Tech Stack Icons" />
+</div><br />CategoryTechnologies & ConceptsBackend & FrameworksPHP 8.2+, Laravel 11/12, Blade, Eloquent ORM, RESTful APIs, Role-Based Access Control (RBAC)Frontend & UIHTML5, CSS3, Bootstrap 5, JavaScript, Vite, Responsive Card & Dashboard LayoutsDatabaseMySQL, MariaDB, Relational Schema Design, Migrations, Seeders, Query OptimizationDevOps & SystemsDocker & Docker Compose, Linux (Rocky Linux / Kali), Bash Scripting, OpenSSH, SELinux, LaragonTesting & QualityPHPUnit Feature Testing (RefreshDatabase), Conventional Commits, Git WorkflowSystem ModelingUML (Use Case, Activity, Sequence, Class Diagrams), BPMN 2.0, Usability Testing🚀 Featured Academic & Coursework ProjectsProjectDescriptionTech StackTelkomLibrary & CeLOE LMSCombined Laravel 12 practicum suite featuring Multi-Role RoleMiddleware, cover image storage & preview, dynamic search/filter/pagination, assignment grading (0–100), and streamed CSV grade exports.Laravel 12 MySQL Bootstrap 5 PHPUnitSi-Akademik RBACMulti-role academic portal implementing custom CheckRole middleware for clean separation of student, lecturer, and admin workflows.Laravel 11 RBAC MySQLMr. Boim Laundry WarehouseLaundry warehouse management course project featuring role-based access control, a normalized 5-table relational schema, and REST API endpoints.Laravel REST API MySQLCoto Makassar Gowa Digital OrderingEnd-to-end Information Systems analysis & design covering 8 functional requirements, BPMN business process modeling, and full UML specifications.BPMN UML System Analysis📊 GitHub Stats<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dex-toxicabyss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Dex-toxicabyss GitHub Stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex-toxicabyss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div><div align="center">
+<img src="https://streak-stats.demolab.com?user=Dex-toxicabyss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>📫 Let's Connect!<p>
+<a href="https://github.com/Dex-toxicabyss">
+<img src="https://img.shields.io/badge/GitHub-Dex--toxicabyss-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/raffata-izacky-yuargya-aletama-248535388/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:raffataizacky@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
