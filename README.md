@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Dex-toxicabyss&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Telkom%20University-Jakarta-E11D48?style=flat-square&logo=academia&logoColor=white" alt="Telkom University" />
   <img src="https://img.shields.io/badge/Status-Undergraduate%20Student-0284C7?style=flat-square" alt="Undergraduate Student" />
-  <img src="https://img.shields.io/badge/Open%20To-Semester%204%20Internship-10B981?style=flat-square" alt="Semester 4 Internship" />
+  <img src="https://img.shields.io/badge/Open%20To-Semester%204%20Internship-10B981?style=flat-square" alt="Semester 5 Internship" />
 </p>
 
 </div>
