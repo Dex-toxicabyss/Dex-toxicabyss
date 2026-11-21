@@ -16,7 +16,7 @@
 
 ### 💡 About Me
 
-I'm **Raffata Izacky Yuargya Aletama** (you can call me **Raffata** or **Zacky**), an undergraduate **Information Systems** student at the **Faculty of Industrial Engineering, Telkom University Jakarta** (Class `S1-SI-KJ-25-02`, entering Semester 3). I build coursework projects across **Laravel**, **PHP**, **C# (.NET)**, **Java**, and **Python**, while exploring **Cybersecurity**, **Computer Networking**, **Docker**, and **Product Design Thinking**.
+I'm **Raffata Izacky Yuargya Aletama** (you can call me **Raffata** or **Raff**), an undergraduate **Information Systems** student at the **Faculty of Industrial Engineering, Telkom University Jakarta** (Class `S1-SI-KJ-25-02`, entering Semester 3). I build coursework projects across **Laravel**, **PHP**, **C# (.NET)**, **Java**, and **Python**, while exploring **Cybersecurity**, **Computer Networking**, **Docker**, and **Product Design Thinking**.
 
 - 🔭 **Currently building:** Multi-role web applications in **Laravel 12** (RBAC, file storage, REST APIs, and PHPUnit testing) alongside relational database and system modeling projects.
 - 🌱 **Currently learning:** Cybersecurity fundamentals, computer networking (Cisco Packet Tracer), Dockerized backend environments, and Linux administration (Rocky Linux, SSH/SELinux, Bash).
